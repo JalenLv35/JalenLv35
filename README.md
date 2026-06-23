@@ -4,12 +4,12 @@ Welcome to my GitHub profile!
 
 - 🎓 First-year M.S. student in Electronic Information Engineering at Tsinghua University.
 - 🎓 B.Eng. in Biomedical Engineering from Huazhong University of Science and Technology.
-- 🚀 I regret that much of my previous work was not pushed to GitHub, and now I’m committed to updating it seriously and consistently.
+- 🚀 zero to hero
 - ✨ **“Be myself”**.
 
 <!--
 **JalenLv35/JalenLv35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I regret that much of my previous work was not pushed to GitHub, and now I’m committed to updating it seriously and consistently.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

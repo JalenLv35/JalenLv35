@@ -1,8 +1,8 @@
-## 你好，我是 Jalen 👋
+## Hi, I'm Jalen 👋
 
-欢迎来到我的 GitHub 主页！
+Welcome to my GitHub profile!
 
-- 💻 我热爱编程，喜欢把想法变成可落地的项目。
-- 🌱 我在持续学习新技术，关注工程实践与代码质量。
-- 🤝 欢迎交流技术、项目合作与成长经验。
-- 📫 如果你想联系我，欢迎通过 GitHub 与我沟通。
+- 🎓 First-year M.S. student in Electronic Information at Tsinghua University.
+- 🎓 B.Eng. in Biomedical Engineering from Huazhong University of Science and Technology.
+- 🚀 I regret that much of my previous work was not pushed to GitHub, and now I’m committed to updating it seriously and consistently.
+- ✨ Personal favorite: **“be myself”**.

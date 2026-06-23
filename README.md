@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 - 🎓 First-year M.S. student in Electronic Information Engineering at Tsinghua University.
 - 🎓 B.Eng. in Biomedical Engineering from Huazhong University of Science and Technology.
-- 🚀 zero to hero
+- 🚀 Just a nobody 
 - ✨ **“Be myself”**.
 
 <!--
